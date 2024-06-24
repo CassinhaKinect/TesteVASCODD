@@ -1,0 +1,64 @@
+main {
+    border-bottom: 5px solid rgb(0, 0, 0);
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    text-align: center;
+
+}
+
+
+main h2 {
+    border-bottom: 5px solid rgb(0, 0, 0);
+    margin-bottom: 25px;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 40px;
+}
+
+main p {
+    padding-bottom: 15px;
+    line-height: 1.5;
+    text-align: justify;
+
+}
+
+main p {
+    display: block;
+    clear: left;
+    font-size: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}
+
+.col-lg-3 img {
+    width: 100%;
+    height: auto;
+    max-height: 180px;
+    min-height: 180px;
+}
+
+.col-lg-3 p {
+    text-align:justify;
+}
+
+.headerdiv header {
+    background-image: url(../img/saude-mental-1.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40vh;
+}
+
+.headerdiv header h1 {
+    color: #4B8CCD;
+    text-align: center;
+    font-family: Georgia, serif;;
+}
+
+
+

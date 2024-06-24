@@ -1,0 +1,31 @@
+body {
+    background-color: #FF824B;
+}
+
+.card {
+    padding: 15px;
+    border: 1px solid #919191;
+    border-radius: 8px;
+    transition: 0.3s;
+    width: 60vh;
+    min-height: 40vh;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+    background-color: #4B8CCD;
+}
+
+.card p{
+    padding: 10px 0;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+.card div {
+    text-align: right;
+}

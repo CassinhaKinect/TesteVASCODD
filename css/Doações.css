@@ -1,0 +1,36 @@
+body {
+    background-color: #f9f9f9;
+  }
+  
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+
+  
+.card {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+.card p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+.card div {
+    font-size: 24px;
+    font-weight: bold;
+    color: #337ab7;
+  }
+  
+  @media (max-width: 768px) {
+   .card {
+      margin: 10px;
+    }
+  }
